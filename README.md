@@ -22,10 +22,15 @@ This Python script generates a QR code for the input string and saves it to a fi
 
 ## Example:
 
-1. **Input:**
-   ```plaintext
-   Enter the string for QR code generation: Hello, QR Code!
+**Input:**
+```plaintext
+Enter the string for QR code generation: Hello, QR Code!
+```
 
+**Result:**
+```plaintext
+QR code generated successfully. Saved as 'qrcode.png'.
+```
 
 ## Dependencies:
 __qrcode__: A Python library for creating QR codes.
