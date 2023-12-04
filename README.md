@@ -6,7 +6,7 @@ This Python script generates a QR code for the input string and saves it to a fi
 
 1. **Install Dependencies:**
     ```bash
-    pip install qrcode[pil]
+    pip install "qrcode[pil]"
     ```
 
 2. **Run the Script:**
