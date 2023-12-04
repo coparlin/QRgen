@@ -25,3 +25,7 @@ This Python script generates a QR code for the input string and saves it to a fi
 1. **Input:**
    ```plaintext
    Enter the string for QR code generation: Hello, QR Code!
+
+
+## Dependencies:
+__qrcode__: A Python library for creating QR codes.
